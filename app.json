@@ -1,0 +1,42 @@
+{
+  "name": "aboba",
+  "description": "aboba.",
+  "env": {
+    "ProxySite": {
+      "description": "prx",
+      "value": "mirror.umd.edu"
+    },
+
+    "vluid": {
+      "description": "vluid",
+      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+    },
+
+    "vlph": {
+      "description": "vlph",
+      "value": "/s233"
+    },
+    "vmuid": {
+      "description": "vmuid",
+      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+    },
+
+    "vmph": {
+      "description": "vmph",
+      "value": "/s244"
+    },
+    
+    "shph": {
+      "description": "shph",
+      "value": "/share233"
+    },
+
+    "vrsn": {
+       "description": "vrsn",
+       "value": "latest"
+     }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
